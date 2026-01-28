@@ -7,5 +7,5 @@ Google Play requires social and communication apps to publish external standards
 ## Contents
 - `index.md` – The full CSAE Standards document displayed on GitHub Pages.
 
-## Live Policy Page
-Once GitHub Pages is enabled, your public CSAE Standards page will be available at:
+## Purpose
+This repository exists solely to host the CSAE Standards required by Google Play. No application code or sensitive data is stored here.
